@@ -1,0 +1,6 @@
+@VWMS.SkyStatus.API_HostAddress = http://localhost:5160
+
+GET {{VWMS.SkyStatus.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
